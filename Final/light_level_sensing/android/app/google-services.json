@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524481589108",
+    "project_id": "pushnotification-956fe",
+    "storage_bucket": "pushnotification-956fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524481589108:android:3781d49305146fe2944621",
+        "android_client_info": {
+          "package_name": "com.example.light_level_sensing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7BtlgsKP9FrDvszIz0Rg5faTxPMN1GGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
